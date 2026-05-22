@@ -1,2 +1,2 @@
 # zero
-dig dip
+dig deep
